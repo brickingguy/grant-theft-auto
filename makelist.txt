@@ -1,0 +1,12 @@
+Create a high-quality, open-world action game inspired by Grand Theft Auto (GTA). The game should feature next-generation graphics, realistic physics, and immersive gameplay. Include:
+
+A massive, detailed city with dynamic weather, day-night cycles, and lifelike NPC behavior.
+
+A deep storyline with branching missions, heists, and player choices that affect outcomes.
+
+Realistic vehicles, driving mechanics, and combat systems (both melee and ranged).
+
+Highly detailed character models, reflections, lighting, and environmental effects.
+
+Smooth animations and responsive controls for an ultra-immersive experience.
+Make it feel like a “GTA-style game, but on a whole new level” — more realism, better graphics, and deeper interactivity.
